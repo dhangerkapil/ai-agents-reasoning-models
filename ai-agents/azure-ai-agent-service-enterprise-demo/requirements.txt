@@ -1,0 +1,11 @@
+azure-ai-projects
+azure-identity
+gradio
+ipykernel
+ipywidgets
+jupyter
+matplotlib
+Pillow
+python-dotenv
+requests
+yfinance
