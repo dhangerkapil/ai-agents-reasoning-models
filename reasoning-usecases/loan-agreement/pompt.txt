@@ -1,0 +1,54 @@
+I have a portion of a scanned PDF from a Loan Agreement. Some parts might be faint or poorly formatted. Please carefully parse the entire text (including any sections, footnotes, or side notes) to:
+
+Identify and highlight any unusual, high-risk, or hidden clauses (e.g., cross-default, accelerated repayment triggers).
+Summarize potential compliance obligations (AML/KYC, Basel III, PCI DSS, etc.).
+Point out any unclear or potentially risky terms.
+Suggest next steps for thorough due diligence.
+Text (scanned Loan Agreement excerpt):
+
+"LOAN AGREEMENT (Excerpt)
+
+This Loan Agreement (“Agreement”) is entered into on February 3, 20XX, by and between LenderCo (“Lender”) and BorrowWell Corp. (“Borrower”).
+
+Principal & Repayment Terms
+1.1 Principal Amount: Five million dollars (USD $5,000,000).
+1.2 Repayment: Quarterly installments over five (5) years. An interest rate of LIBOR + 2% will apply.
+
+Collateral & Guarantees
+2.1 The Borrower’s subsidiary, BW Holdings, shall provide a secondary guarantee.
+2.2 In the event of missed payments exceeding thirty (30) days, the Lender reserves the right to enforce immediate collection on all outstanding amounts.
+
+Financial Covenants
+3.1 Borrower must maintain a Debt Service Coverage Ratio (DSCR) of no less than 1.2x.
+3.2 [NOTE: Faint text, possibly referencing additional reporting obligations or ratio thresholds.]
+
+Regulatory & Compliance Requirements
+4.1 The Borrower shall comply with all applicable Anti–Money Laundering (AML) and Know Your Customer (KYC) regulations.
+4.2 The Borrower must provide regular proof of compliance with relevant Basel III capital requirements if requested by Lender.
+
+Events of Default
+5.1 Nonpayment of Principal or Interest beyond the specified grace period.
+5.2 Violation of covenants in Sections 3 or 4.
+5.3 Insolvency of the Borrower, or initiation of bankruptcy proceedings.
+5.4 [Footnote 1—faint text:] If Borrower or any subsidiary shall default on any other loan or indebtedness exceeding $100,000, this Agreement’s obligations may be accelerated at Lender’s sole discretion.
+
+Miscellaneous Provisions
+6.1 Governing Law: This Agreement is governed by the laws of the State of New York.
+6.2 Severability & Amendments: If any provision is deemed invalid, the remaining provisions remain in effect. Amendments must be in writing and signed by both parties.
+6.3 [Side Note 2—faint text, marginalia:] Additional AML disclosures may be required if there is a change in Borrower’s business structure.
+
+[Document quality is partially degraded. Some footnotes or side notes may be incomplete or only partially readable. End of excerpt.]
+
+That is all the text I have. Let me know:
+
+Which clauses are unusual or potentially high-risk?
+Are there hidden or faint references (footnotes, side notes) that might change the interpretation of this Loan Agreement?
+What compliance issues might arise (AML/KYC, Basel III, etc.)?
+What are the recommended follow-up steps or due diligence activities?
+
+Instructions:
+
+Carefully parse all sections, including the faint footnote and side note references.
+Provide a concise summary of the Agreement’s key obligations and any risk points.
+Specifically highlight any cross-default or tricky repayment terms, referencing where you found them.
+Mention any recommended next steps for a thorough risk assessment or compliance check.

@@ -1,0 +1,11 @@
+perform exploratory data analysisi of the below data and share key insights "CustomerID	Name	Age	Region	MonthlyIncome	AvgDailyBalance	MonthlyTxVolume	CreditScore	RiskScore	Notes
+1001	John Doe	42	NorthEast	$5,500	$3,200	$7,000	720	3	--
+1002	Jane Smith	33	SouthEast	$4,200	$2,500	$3,600	680	5	--
+1003	Ali Khan	56	NorthWest	$6,500	$-250	$2,100	750	4	Potential overdraft / negative balance
+1004	Maria Rosa	29	West	$8,000	$19,500	$20,000	820	6	Very high average balance, large volume
+1005	Chen Li	31	East	$3,900	$1,800	$9,900	690	7	High Tx volume relative to income
+1006	Rahul Iyer	48	SouthWest	$11,000	$30,000	$35,000	805	3	High net worth, consistently large sums
+1007	Sara Kim	38	NorthEast	$4,000	$2,500	$2,800	500	9	Low credit score, suspiciously high risk
+1008	Bob Lee	60	South	$9,000	$5,200	$5,500	710	4	--
+1009	Emma Jones	27	East	$12,000	$1,200	$20,000	790	8	Tx volume unusually high vs. balance
+1010	David Yu	44	North	$3,200	$-1,000	$15,000	680	8	Repeated negative balance, large volume"
