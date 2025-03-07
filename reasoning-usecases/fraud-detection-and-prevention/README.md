@@ -1,8 +1,8 @@
 # Fraud Detection and Prevention
 
-Banks employ advanced fraud detection systems to safeguard their customers. However, there is a fine line between avoiding false positives, which can inconvenience genuine customers, and missing actual fraud cases, which can lead to significant losses. Typically, these systems generate numerous alerts, and Fraud Case Managers must prioritize their efforts on the most probable fraud cases. They use their expertise and combine alerts with other clues and unstructured data to determine if fraud is occurring and then contact the customer.
+Banks use advanced fraud detection systems to protect their customers. However, there is a delicate balance between avoiding false positives, which can inconvenience genuine customers, and missing actual fraud cases, which can lead to significant losses. Typically, these systems generate numerous alerts, and Fraud Case Managers must prioritize their efforts on the most probable fraud cases. They use their expertise and combine alerts with other clues and unstructured data to determine if fraud is occurring and then contact the customer.
 
-With the increase in fraud and scams, it is impossible for case managers to address every alert. AI can help banks analyze these alerts and combine structured data from fraud systems with unstructured data sources such as call transcripts and purchase information. This helps prioritize cases for review by Fraud Case Managers, ensuring more customers are protected.
+With the rise in fraud and scams, it is impossible for case managers to address every alert. AI can help banks analyze these alerts and combine structured data from fraud systems with unstructured data sources such as call transcripts and purchase information. This helps prioritize cases for review by Fraud Case Managers, ensuring more customers are protected.
 
 In this scenario, there are 30 potential customer profiles flagged by the fraud system. The task is to prioritize the top 5 most likely fraudulent cases for review by the Fraud Case Manager. The model also aims to predict which of the top 5 are actual fraud cases.
 
