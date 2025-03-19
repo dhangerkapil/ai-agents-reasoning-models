@@ -1,0 +1,146 @@
+case_study_task = "<title>
+Commercial Underwriting Analysis for TechEdge Manufacturing Co.: Balancing Risk and Compliance under State Regulations
+</title>
+
+<datasets>
+**Dataset 1: Business Profile**
+This dataset provides details about TechEdge Manufacturing Co., a small business seeking commercial insurance coverage. The dataset includes key information on the business profile.
+
+| Field                         | Details                               |
+|-------------------------------|---------------------------------------|
+| Business Name                 | TechEdge Manufacturing Co.            |
+| Industry                      | Electronics Manufacturing             |
+| Years in Operation            | 12                                    |
+| Annual Revenue ($)            | 8,500,000                             |
+| Employee Count                | 120                                   |
+| Coverage Requested            | Commercial Property & Liability       |
+| Location                      | Texas                                 |
+| Risk Management Measures      | Fire alarms, sprinkler system installed |
+
+---
+
+**Dataset 2: Claims History**
+This table outlines the historical insurance claims filed by TechEdge Manufacturing Co. over the past 5 years. (Also visualized as a line graph showing claim amounts over time.)
+
+| Date       | Claim Type           | Claim Amount ($) | Cause of Loss           | Resolution Status |
+|------------|----------------------|------------------|-------------------------|-------------------|
+| 2018-05-20 | Fire Damage          | 125,000          | Electrical Fault        | Settled           |
+| 2019-08-15 | Equipment Breakdown  | 75,000           | Machinery Failure       | Settled           |
+| 2020-11-10 | Property Damage      | 200,000          | Structural Issues       | Open              |
+| 2021-03-05 | Theft                | 50,000           | Burglary                | Settled           |
+| 2022-07-22 | Fire Damage          | 150,000          | Overheating Equipment   | Open              |
+
+---
+
+**Dataset 3: Risk Assessment Survey**
+This dataset provides risk factor scores based on an on-site evaluation. (Visualized as a radar chart.)
+
+| Risk Factor                   | Score (out of 10) |
+|-------------------------------|-------------------|
+| Fire Risk                     | 8                 |
+| Flood Risk                    | 4                 |
+| Equipment Malfunction Risk    | 7                 |
+| Theft Risk                    | 6                 |
+| Employee Safety               | 5                 |
+
+---
+
+**Dataset 4: Commercial Property Inspection Report**
+An inspection report detailing key findings about the property including structural integrity and fire safety systems.
+
+| Inspection Area        | Finding                                  | Rating (1-10) |
+|------------------------|------------------------------------------|---------------|
+| Structural Integrity   | Minor cracks; overall acceptable         | 7             |
+| Fire Safety Systems    | Sprinkler system partially outdated      | 5             |
+| Electrical Systems     | Inconsistent maintenance practices       | 6             |
+| Building Maintenance   | Signs of wear; upgrades recommended        | 5             |
+
+---
+
+**Dataset 5: State Regulation Compliance Checklist**
+This checklist evaluates the property’s compliance with current state safety and insurance regulations.
+
+| Regulation Category    | Requirement                             | Compliance Status         |
+|------------------------|-----------------------------------------|---------------------------|
+| Fire Code              | Fully compliant with sprinkler requirements | Non-Compliant             |
+| Electrical Safety      | Updated wiring and periodic inspections | Compliant                 |
+| Structural Safety      | Seismic retrofitting as per code         | Conditionally Compliant   |
+| Health & Safety        | Regular safety drills mandated           | Non-Compliant             |
+
+---
+
+**Dataset 6: Underwriting Guidelines Document** *DS*
+A text document outlining standard underwriting procedures for commercial risks. (Presented as bullet points.)
+
+- Base premium is determined by annual revenue and inherent risk rating.
+- Adjustments are applied for historical claims frequency and severity.
+- Additional loadings are imposed for non-compliance with state regulations.
+- Discounts can be applied for proactive risk management measures already in place.
+
+---
+
+**Dataset 7: Financial Performance and Revenue Trends** *DS*
+Monthly revenue data over the past 12 months, depicted as a line graph.
+
+| Month | Revenue ($) |
+|-------|-------------|
+| Jan   | 700,000     |
+| Feb   | 680,000     |
+| Mar   | 720,000     |
+| Apr   | 710,000     |
+| May   | 690,000     |
+| Jun   | 705,000     |
+| Jul   | 715,000     |
+| Aug   | 700,000     |
+| Sep   | 690,000     |
+| Oct   | 710,000     |
+| Nov   | 720,000     |
+| Dec   | 730,000     |
+
+---
+
+**Dataset 8: Email Transcript** *DS*
+An email conversation between the business owner and an insurance broker discussing premium quotes and potential risk improvements.
+
+"Subject: Insurance Premium Inquiry
+Hi,
+I am seeking a detailed quote for our property insurance. While we have installed fire alarms and a sprinkler system, we are aware that some systems still need updating. Please advise on how these factors might affect our premium.
+Regards,
+Owner – TechEdge Manufacturing Co."
+
+---
+
+**Dataset 9: Employee Satisfaction Survey Results** *DS*
+Survey data regarding employee satisfaction levels. (Presented as a bar chart.)
+
+| Department      | Satisfaction Score (out of 10) |
+|-----------------|-------------------------------|
+| Operations      | 7                             |
+| Maintenance     | 6                             |
+| Administration  | 8                             |
+
+---
+
+**Dataset 10: Social Media Marketing Performance** *DS*
+Metrics depicting the company’s online engagement, shown as pie charts and trend lines.
+
+| Metric                    | Value    |
+|---------------------------|----------|
+| Monthly Engagement Rate (%) | 12     |
+| Social Media Reach          | 50,000 |
+| Ad Spend ($)                | 15,000 |
+
+</datasets>
+
+<question>
+As an insurance consultant, perform a comprehensive underwriting analysis for TechEdge Manufacturing Co. Based on the provided datasets, determine the appropriate premium rate adjustment for insuring their commercial property. Specifically:
+1. Calculate the risk adjustment factor based on their historical claims frequency and severity (Dataset 2).
+2. Assess the risk score derived from the on-site risk assessment (Dataset 3) and property inspection findings (Dataset 4).
+3. Incorporate penalties due to non-compliance with state regulations (Dataset 5).
+4. Recommend a final premium loading percentage above the base rate and propose risk mitigation strategies.
+The final answer should clearly state the recommended premium loading percentage and justify your conclusion with detailed calculations referencing the datasets.
+</question>
+
+<instruction>
+Please provide a detailed solution including all working calculations, intermediate steps, and references to the provided datasets. Begin with a brief executive summary outlining key findings and key numerical results. Use markdown formatting for headers, tables, and calculations. Ensure your final answer explicitly states the premium adjustment percentage and lists the recommended risk mitigation strategies.
+</instruction>
