@@ -1,5 +1,0 @@
-# Banking / Credit Risk Assessment and Management
-
-The task involves assessing the credit risk for a customer applying for a $200,000 mortgage loan. The bank needs to review the customer?s financial details, including credit score, debt-to-income ratio, loan-to-value ratio, employment status, income, savings, and other debts. Additionally, the bank will consider the house?s appraised value, location, market trends, and the offered interest rate. 
-
-Based on these factors, the bank will assign ratings to each criterion, combine them into a composite rating, and compare the requested loan amount and interest rate with policy limits. The final decision to approve or reject the loan will be based on this comparison and other relevant factors. If assumptions are needed, the decision will include conditions that must be validated.
